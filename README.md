@@ -31,7 +31,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mabdir&" alt="mabdir" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mabdir&show_icons=true&locale=en&layout=compact" alt="mabdir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mabdir&show_icons=true&locale=en" alt="mabdir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mabdir&" alt="mabdir" /></p>
