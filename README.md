@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Laravel framework**
 
-- 📫 How to reach me **modirisak@gmail.com**
+- 📫 How to reach me **mabdirm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mabdir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mabdir_" height="30" width="40" /></a>
+<a href="https://twitter.com/mabdirm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mabdir_" height="30" width="40" /></a>
 <a href="https://discord.gg/mabdir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mabdir" height="30" width="40" /></a>
 </p>
 
