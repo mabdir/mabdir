@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Abdirazak</h1>
-<h3 align="center">A passionate web developer from Somalia</h3>
+<h3 align="center">A passionate fullstack developer from Somalia</h3>
 
 <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" alt="animated coding gif">
 
