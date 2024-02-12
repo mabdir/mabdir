@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdirazak</h1>
 <h3 align="center">A passionate web developer from Somalia</h3>
 
-<img align-right src="https://tenor.com/view/coding-gif-18657810" alt="animated coding gif">
+<img align="right" src="https://tenor.com/view/coding-gif-18657810" alt="animated coding gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabdir&label=Profile%20views&color=0e75b6&style=flat" alt="mabdir" /> </p>
 
