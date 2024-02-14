@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Abdirazak</h1>
-<h3 align="center">A passionate full-stack developer from Somalia</h3>
+<h3 align="center">A passionate web developer from Somalia</h3>
 
 <img align="right" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" alt="animated coding gif">
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **retail-management**
 
-- 🌱 I’m currently learning **Laravel framework**
+- 🌱 I’m currently learning **Laravel framework and other cool stuff**
 
 - 📫 How to reach me **mabdirm@gmail.com**
 
